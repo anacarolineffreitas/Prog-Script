@@ -1,0 +1,42 @@
+.Preto{
+    background-color: black;
+    width: 100px;
+    height: 100px;
+}
+
+.Branco{
+    background-color:white;
+    width: 100px;
+    height: 100px;
+}
+
+.fundo{
+    display: flex;
+    margin: auto;
+    justify-content: center;
+}
+
+.PecaVermelha{
+
+    background-color: red;
+    width: 91px;
+    height: 91px;
+    margin: 5px;
+    border-radius: 50px;
+    position:absolute
+
+}
+
+.PecaBranca{
+    background-color: white;
+    width: 91px;
+    height: 91px;
+    margin: 5px;
+    border-radius: 50px;
+    position: absolute;
+
+}
+
+
+
+
